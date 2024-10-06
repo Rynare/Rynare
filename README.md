@@ -1,6 +1,21 @@
 # 💫 About Me:
-👨‍🎓 I'm studying at State Polytechnic of Jember<br>🌱 I'm currently learning AI and Deep Learning<br>💬 Ask me about Front-end and Back-end<br>🤝 I'm looking for fullstack partner<br>⚡ Fun fact my screen time is spent on TikTok
 
+<table>
+  <tr >
+    <td >
+      <img src="https://media1.tenor.com/m/mxXO4ylwtiUAAAAC/thumbs-up-%E6%9D%B1%E5%B1%B1%E6%81%B5%E9%87%8C%E6%B2%99.gif"/>
+    </td>
+    <td >
+  <p >
+    👨‍🎓 I'm studying at State Polytechnic of Jember<br>
+    🌱 I'm currently learning AI and Deep Learning<br>
+    💬 Ask me about Front-end and Back-end<br>
+    🤝 I'm looking for fullstack partner<br>
+    ⚡ Fun fact my screen time is spent on TikTok
+  </p>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.rynare) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fahimdb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darkchocolates49) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahimdavid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27076086) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@rynare.1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FahimDavid_) 
@@ -13,10 +28,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rynare&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rynare&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rynare&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rynare&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
