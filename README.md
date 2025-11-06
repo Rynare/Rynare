@@ -11,7 +11,6 @@
     🌱 I'm currently learning AI and Deep Learning<br>
     💬 Ask me about Front-end and Back-end<br>
     🤝 I'm looking for fullstack partner<br>
-    ⚡ Fun fact my screen time is spent on TikTok
   </p>
     </td>
   </tr>
